@@ -1,32 +1,16 @@
-# Prerequisites
-*.d
+# Ignore generated/temporary FMOD files
+*.cache
+*.user
+*.log
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Ignore built banks
+Build/*
 
-# Precompiled Headers
-*.gch
-*.pch
+# Ignore backups
+Backup/*
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Ignore auto-saved files
+Autosave/*
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# Ignore temporary files
+Temp/*
