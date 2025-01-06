@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{b4b05d5e-2913-423c-8064-f7b8e518ae8c}">
+		<property name="name">
+			<value>Blend</value>
+		</property>
+		<relationship name="folder">
+			<destination>{9c499aeb-373c-4f99-9245-4276f75a8f88}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{fc6a7c01-d0f1-49a7-b738-066902c575d4}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{fc6a7c01-d0f1-49a7-b738-066902c575d4}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
