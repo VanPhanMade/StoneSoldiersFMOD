@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Workspace" id="{2e9672cc-dbb1-4e7c-ac60-d3bb537c2678}">
 		<property name="builtBanksOutputDirectory">
 			<value>C:/Users/Van/Documents/Projects_Unreal/Repositories/StoneSoldiers/Content/FMOD</value>
